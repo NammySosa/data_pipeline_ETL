@@ -17,7 +17,7 @@ This project references [this project](https://github.com/ABZ-Aaron/Reddit-API-P
 
 ## Data Pipeline Architecture
 
-<img src="https://github.com/Nammy-Sosa/Reddit-API-Pipeline/blob/master/images/etl_architecture.png" width=70% height=70%>
+<img src="https://github.com/NammySosa/data_pipeline_ETL/blob/main/images/etl%20architecture.PNG" width=75% height=75%>
 
 1. Infrastructure is created -- AWS Resources (S3 + Redshift) are deployed with code using Terraform
 2. Docker containers are initiated -- Airflow executes DAG to begin ETL process
@@ -48,7 +48,7 @@ Feel free to shoot me a message if you have any questions.
 
 ## Dashboard
 
-[<img src="https://github.com/Nammy-Sosa/Reddit-API-Pipeline/blob/master/images/dashboardimg.png" width=60% height=60%>](https://lookerstudio.google.com/u/0/reporting/a6814946-0e45-4619-a19a-19347f8f07ab/page/p_uzcoiqdr4c)
+[<img src="https://github.com/NammySosa/data_pipeline_ETL/blob/main/images/dashboardimg.PNG" width=60% height=60%>](https://lookerstudio.google.com/u/0/reporting/a6814946-0e45-4619-a19a-19347f8f07ab/page/p_uzcoiqdr4c)
 
 ## Final Notes / Improvements
 
