@@ -11,7 +11,7 @@ The pipeline features some tools used in modern data engineering stacks, includi
 
 The purpose of this project was to learn and develop some data engineering & analyst skills, and to build an understanding of the end-to-end processes involved in the data lifecycle. 
 
-This project also gave me insights into the Canadian computer hardware / peripherals market, and when/where/what the best deals for such parts are, which is helpful for anybody looking to build a custom PC in Canada (the /r/buildapcsales exists for the non-Canadian market).
+This project provides insights into deals related to the Canadian computer hardware / peripherals market, via /r/buildapcsalescanada.
 
 This project references [this project](https://github.com/ABZ-Aaron/Reddit-API-Pipeline) by [ABZ-Aaron](https://github.com/ABZ-Aaron).
 
@@ -41,9 +41,9 @@ For this project, one will need to set up and configure a few things.
 
 ## Setup
 
-If you're interested in setting up a similar project, I HIGHLY recommend following [Aaron's setup guide](https://github.com/ABZ-Aaron/Reddit-API-Pipeline#setup) as it is well-documented and beginner friendly. It also includes setting up and using dbt (another popular tool used in the modern data stack for ELT purposes), which I have skipped in this project.
+If you're interested in setting up a similar project, I HIGHLY recommend following [Aaron's setup guide](https://github.com/ABZ-Aaron/Reddit-API-Pipeline#setup) as it is well-documented and beginner friendly. 
 
-This project was set up in an Ubuntu 22.04.1 environment via WSL2, using Windows 10. It uses the free-tier AWS resources, so it costs nothing to run. Nevertheless, the scale of data involved in this project is quite small so the fees would minimal otherwise.
+This project was set up in an Ubuntu 22.04.1 environment via WSL2, using Windows 10. It uses the free-tier AWS resources, so it costs nothing to run. 
 Feel free to shoot me a message if you have any questions.
 
 ## Dashboard
