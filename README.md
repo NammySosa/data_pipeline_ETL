@@ -1,4 +1,4 @@
-# /r/bapcsalescanada Dashboard - Powered by an automated ETL data pipeline
+# /r/bapcsalescanada Dashboard - ETL Data Pipeline
 
 A Looker dashboard powered by an automated, batch-processing ETL data pipeline.
 
